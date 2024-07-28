@@ -47,7 +47,7 @@ $ go run . google.com -t 10
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/Puneet-Pal-Singh" target="_blank">{{Puneet Pal Singh}}</a>
+Made with :heart: by <a href="https://github.com/Puneet-Pal-Singh" target="_blank">Puneet Pal Singh</a>
 
 &#xa0;
 
